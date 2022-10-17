@@ -1,4 +1,4 @@
-# Explorer Stage 02 - projeto 02 Novos conceitos de HTML e CSS
+# Explorer Stage 02 | Projeto 02 - Novos conceitos de HTML e CSS
 
 ![preview](images/preview.png)
 
